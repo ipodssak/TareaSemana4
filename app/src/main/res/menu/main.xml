@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <item android:id="@+id/opcion6"
+            android:title="Los que mas me han gustado"
+            android:orderInCategory="100"
+            android:icon="@drawable/estrella"
+            app:showAsAction="ifRoom|withText" />
+        <item android:id="@+id/opcion5"
+            android:title="Contacto"
+            android:orderInCategory="10000"
+            app:showAsAction="withText" />
+        <item android:id="@+id/opcion4"
+            android:title="Acerca de "
+            android:orderInCategory="10000"
+            app:showAsAction="withText" />
+
+</menu>

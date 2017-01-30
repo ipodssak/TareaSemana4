@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+
+
+    <string name="nombre">Armando Sandoval</string>
+    <string name="telefono">722164556</string>
+    <string name="email">ipodssak@live.com.mx</string>
+
+
+    <string name="pnombre">npmbre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
